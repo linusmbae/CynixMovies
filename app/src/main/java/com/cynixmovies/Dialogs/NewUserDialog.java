@@ -65,4 +65,5 @@ public class NewUserDialog extends AppCompatDialogFragment {
     public interface CynixDialogListener{
         void applyText(String TxtUserName,String TxtEmail,String TxtPassword);
     }
+
 }
